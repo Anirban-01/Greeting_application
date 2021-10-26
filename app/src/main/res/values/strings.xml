@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Greeting App</string>
+    <string name="hello_world">HELLO WORLD,</string>
+    <string name="have_a_great_lunch">HAVE A GREAT LUNCH</string>
+</resources>
